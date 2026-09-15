@@ -40,6 +40,8 @@ class Solution {
     }
 }
 
+// T:O(n)
+// S:O(1)
 
 // @lc code=end
 
