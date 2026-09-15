@@ -33,5 +33,8 @@ class Solution {
         return true;
     }
 }
+
+// T:O(n)
+// S:O(1)
 // @lc code=end
 
