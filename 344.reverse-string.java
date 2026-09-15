@@ -21,5 +21,7 @@ class Solution {
     return;
     }
 }
+// T:O(n)
+// S:O(1)
 // @lc code=end
 
