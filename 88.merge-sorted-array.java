@@ -29,5 +29,8 @@ class Solution {
         }
     }
 }
+
+// T:O(m+n)
+// S:O(1)
 // @lc code=end
 
