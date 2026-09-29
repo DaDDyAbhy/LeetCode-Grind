@@ -24,5 +24,8 @@ class Solution {
         return new int[] {-1,-1};
     }
 }
+
+// T:O(n)
+// S:O(n)
 // @lc code=end
 
